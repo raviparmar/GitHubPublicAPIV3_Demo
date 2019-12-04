@@ -1,0 +1,6 @@
+framework module Pods_GitHubPublicAPIV3_Demo {
+  umbrella header "Pods-GitHubPublicAPIV3_Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
